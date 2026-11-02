@@ -1,4 +1,4 @@
-# 🚀 Selenium & Pytest: Advanced Automation (Lesson 5)
+# 🚀 Selenium & Pytest: Advanced Automation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -75,12 +75,12 @@
 
 ```text
 selenium_4/
-├── automation_practice_form/      # POM, фикстуры, негативные тесты
-├── TextBoxPageObject/             # Классический POM, Fluent Interface
-├── TextBoxPageObjectWithPageFactory/ # PageFactory
-├── the_simplest_page_factory/     # Пример PageFactory
-├── calendar_page_element_with_selene/ # Selene + Selenium
-├── table_page_element_example/    # Работа с таблицами
-├── example_from_student/          # Чужой POM проект (BasePage, Pages, Tests)
-├── requirements.txt               # Зависимости (selenium==4.22.0)
-└── README.md                      # Этот файл
+├── automation_practice_form/           # POM, фикстуры, негативные тесты
+├── TextBoxPageObject/                  # Классический POM, Fluent Interface
+├── TextBoxPageObjectWithPageFactory/   # PageFactory
+├── the_simplest_page_factory/          # Пример PageFactory
+├── calendar_page_element_with_selene/  # Selene + Selenium
+├── table_page_element_example/         # Работа с таблицами
+├── example_from_student/               # Чужой POM проект (BasePage, Pages, Tests)
+├── requirements.txt                    # Зависимости (selenium==4.22.0)
+└── README.md                           # Этот файл
